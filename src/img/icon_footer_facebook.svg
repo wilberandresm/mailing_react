@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="17px" viewBox="0 0 8 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_footer_facebook-over</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,32 C24.836,32 32,24.837 32,16 C32,7.165 24.836,0 16,0 C7.164,0 0,7.165 0,16 C0,24.837 7.164,32 16,32" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_footer_facebook-over" transform="translate(-12.000000, -8.000000)">
+            <g id="Clipped">
+                <g id="Shape-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M12,13.622 L13.714,13.622 L13.714,11.914 C13.714,11.161 13.732,9.999 14.266,9.28 C14.828,8.52 15.6,8 16.926,8 C19.09,8 20,8.317 20,8.317 L19.571,10.92 C19.571,10.92 18.857,10.709 18.191,10.709 C17.524,10.709 16.927,10.953 16.927,11.637 L16.927,13.622 L19.66,13.622 L19.47,16.165 L16.927,16.165 L16.927,25 L13.714,25 L13.714,16.165 L12,16.165 L12,13.622 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
